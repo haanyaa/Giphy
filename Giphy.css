@@ -1,0 +1,52 @@
+
+* {
+	box-sizing: border-box;
+}
+
+
+
+h1, h2, h3 {
+	background-color: #FFFFFF;
+	opacity: 0.9;
+}
+
+h1 {
+	width: 610px;
+}
+
+h3 {
+	width: 550px;
+}
+
+#gif-form {
+	float: right;
+	margin-top: 0px;
+}
+
+#newbuttons {
+	float: left;
+	margin-bottom: 10px;
+}
+
+#gif-input {
+	width: 200px;
+}
+
+#gif-view {
+	margin-top: 40px;
+	margin-right: auto;
+	width: 700px;
+	height: auto;
+}
+
+p {
+	font-size: 15px;	
+	color: #FFFFFF;
+
+}
+
+body {
+	      	background-image: url('https://www.walldevil.com/wallpapers/w03/939533-a-song-of-ice-and-fire-cloaks-eddard-39ned39-stark-game-of-thrones-george-r.-r.-martin-house-stark-sean-bean-swords-tv-series.jpg');
+
+}
+ 
